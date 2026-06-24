@@ -1,4 +1,4 @@
-## Hi there 👋 It's me Swetha
+## Hi there 👋 I'm Swetha
 
 Aspiring Software Engineer 
 - 🔭 Here's my [portfolio](https://swetha152005.github.io/portfolio/)                                                 
