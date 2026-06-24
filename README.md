@@ -14,7 +14,7 @@ Aspiring Software Engineer
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>
 
 <br />
-![LeetCode Stats](https://leetcard.jacoblin.cool/swetha__2005?theme=chartreuse&font=Domine&ext=contest)
+[LeetCode Stats](https://leetcard.jacoblin.cool/swetha__2005?theme=chartreuse&font=Domine&ext=contest)
 
 
 
